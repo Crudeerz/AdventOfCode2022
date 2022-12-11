@@ -2,4 +2,4 @@
 
 <h2>Hej!</h2> 
 
-Försöker lösa så många adventofcode som möjlig med python utan erfarenhet.
+Försöker lösa så många adventofcode som möjligt
